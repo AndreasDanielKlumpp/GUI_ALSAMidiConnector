@@ -1,5 +1,4 @@
 # ALSAguiTOOLS
-GUI tools for midi connecting and recording tasks
 ALSAguiTOOLS are Qt GUI (gnome-terminal required) tools for midi connecting and recording tasks on Linux systems with Alsa (aconnect), but without the need of a DAW or Jack Audio Connection Kit (made for small screens e.g. to turn via qmidiarp a raspberry pi into an arpeggiator..).
 
 for Debian 9 add to .pro file:
