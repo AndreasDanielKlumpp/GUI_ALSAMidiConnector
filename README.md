@@ -14,7 +14,27 @@ aconnect
 
 alsa-utils
 
-libasound2 and libasound2-dev
+Linux (tested with Debian 9 and 10)
+
+Qt5, qt5-default
+
+build-essential
+
+qmake
+
+GNU Autotools (automake, autoconf, configure, make)
+
+mesa-common-dev
+
+libgl1-mesa-dev, libglu1-mesa-dev
+
+ALSA
+
+libasound2-dev
+
+libasound2
+
+
 
 
 Copyright (c) 2016 A. Klumpp
