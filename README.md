@@ -1,5 +1,5 @@
-# GUI_ALSAMidiConnector
-GUI_ALSAMidiConnector is a Qt GUI (gnome-terminal required) tool for midi connecting on Linux systems with Alsa (aconnect). Build with: ./INSTALL.sh
+# AlsaConnectorGUI
+AlsaConnectorGUI is a Qt GUI (gnome-terminal required) tool for midi connecting on Linux systems with Alsa (aconnect). Build with: ./INSTALL.sh
 
 required:
 
