@@ -1,5 +1,5 @@
-# AlsaConnectorGUI
-AlsaConnectorGUI is a Qt GUI (gnome-terminal required) tool for midi connecting on Linux systems with Alsa (aconnect). Build with: ./INSTALL.sh
+
+
 
 required:
 
